@@ -422,14 +422,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero-logo h3 {
-  color:#fff;
+  color:#4D4D4D;
   font-weight:800;
   font-size:45px;
   margin:0 0 10px;
 }
 
 .hero-logo h4 {
-  color:#fff;
+  color:#4D4D4D;
   line-height:1.5;
   font-size:21px;
 }
@@ -478,7 +478,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #fh5co-header #navbar li a {
-  color: rgba(255, 255, 255, 1) !important;
+  color: rgba(0, 0, 0, 0.8) !important;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -504,7 +504,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .navbar-nav > li > .dropdown__trigger {
-  color: rgba(255, 255, 255, 1) !important;
+  color: rgba(0, 0, 0, 0.8) !important;
   padding:10px 0;
   margin:0 15px;
   font-weight:400;
