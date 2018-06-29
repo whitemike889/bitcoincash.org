@@ -1462,6 +1462,11 @@ flex-wrap: wrap;}
 .btn.btn-default:hover, .btn.btn-default:focus, .btn.btn-default:active {
   border-color: transparent;
 }
+.btn.btn-default {
+  border:2px solid #fff;
+  background:transparent;
+  color:#fff;
+}
 
 
 .btn.btn-secondary {
