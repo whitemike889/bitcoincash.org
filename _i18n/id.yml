@@ -2,8 +2,8 @@ id:
   language: Bahasa Indonesia
   title:
     index: "Bitcoin Cash - Mata Uang P2P Elektronik"
-    graphics: "Bitcoin Cash - Logos / Graphics"
-    get-listed: "Submit a listing request"
+    graphics: ""
+    get-listed: ""
   meta:
     index:
       description: |
@@ -18,62 +18,181 @@ id:
           Bitcoin Cash adalah mata uang P2P yang mendunia. Bitcoin Cash memberdayakan pedagang dan pengguna untuk bertransaksi dengan biaya rendah dan konfirmasi cepat. Dengan inovasi baru dan pertumbuhan teknologi, Bitcoin Cash memungkinkan adopsi global dan pengembangan moneter yang terdesentralisasi.
     graphics:
       description: |
-        A collection of logos and graphics for Bitcoin Cash.
       twitter:
-        title: "Bitcoin Cash - Logos / Graphics"
+        title: ""
         description: |
-          A collection of logos and graphics for Bitcoin Cash.
       og:
-        title: "Bitcoin Cash - Logos / Graphics"
+        title: ""
         description: |
-          A collection of logos and graphics for Bitcoin Cash.
   graphics:
-    title: "Promotional Graphics"
-    description: "These Bitcoin Cash logos and brand assets can be used for display in online services, retail establishments, press or other promotional purposes."
-    logos: "Logos"
-    download_png_svg: "Download Bitcoin Cash logos in PNG and SVG"
-    download_all: "Download All"
-    small: "Small (PNG)"
-    medium: "Medium (PNG)"
-    large: "Large (PNG)"
-    full: "Full (PNG)"
-    vector: "Vector (SVG)"
+    title: ""
+    description: ""
+    logos: ""
+    download_png_svg: ""
+    download_all: ""
+    small: ""
+    medium: ""
+    large: ""
+    full: ""
+    vector: ""
     sections:
-      home: "Home"
-      logos: "Logos"
-      merchant: "Merchant"
-      donations: "Donations"
-      identity: "Identity"
+      donations: ""
+      home: ""
+      logos: ""
+      merchant: ""
+      identity: ""
     types:
-      primary: "BCH Logo Primary"
-      white: "BCH Logo White Text"
-      mark: "BCH Logo Mark"
-      horizontal_primary: "BCH Logo Horizontal Primary"
-      horizontal_white: "BCH Logo Horizontal White"
-      wallets_exchanges: "BCH Logo For Wallets / Exchanges"
+      primary: ""
+      white: ""
+      mark: ""
+      horizontal_primary: ""
+      horizontal_white: ""
+      wallets_exchanges: ""
     merchant:
-      title: "Merchant Buttons"
-      description: "Show your customers that you accept Bitcoin Cash"
-      primary: "Bitcoin Cash Accepted Here Primary"
-      orange: "Bitcoin Cash Accepted Here Orange"
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
     donation:
-      title: "Donation Buttons"
-      description: "Promote the acceptance of Bitcoin Cash as a donation method."
-      primary: "Bitcoin Cash Donations Accepted Primary"
-      orange: "Bitcoin Cash Donations Accepted Orange"
+      title: ""
+      description: ""
+      primary: ""
+      orange: ""
     identity:
-      title: "Visual Identity"
-      description: "Bitcoin Cash fonts, colors, and more."
-      font: "Ubuntu Bold"
-      font_italic: "Ubuntu Bold Italic"
-      download: "Download Font"
-      orange: "Bitcoin Cash Orange"
-      grey: "Bitcoin Cash Grey"
-      white: "Bitcoin Cash White"
-      hex: "Hex"
-      rgb: "RGB"
-      cmyk: "CMYK"
-      pantone: "Pantone"
+      title: ""
+      description: ""
+      font: ""
+      font_italic: ""
+      download: ""
+      orange: ""
+      grey: ""
+      white: ""
+      hex: ""
+      rgb: ""
+      cmyk: ""
+      pantone: ""
+  developers:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      getStarted: ""
+      news: ""
+    getStarted:
+      tech:
+        title: ""
+        description: ""
+      learn:
+        title: ""
+        description: ""
+      tools:
+        title: ""
+        description: ""
+      workgroups:
+        title: ""
+        description: ""
+      specs:
+        title: ""
+        description: ""
+  workgroups:
+    title: ""
+    description: ""
+    sections:
+      workgroups: ""
+      home: ""
+    tutorials:
+      title: ""
+      description: ""
+    workgroups:
+      description: ""
+      sections:
+        communication: ""
+        officers: ""
+        parties: ""
+        summaries: ""
+      wg-daa:
+        title: ""
+        description: ""
+      wg-blocksize:
+        title: ""
+        description: ""
+      wg-fungibility:
+        title: ""
+        description: ""
+      wg-hardforks:
+        title: ""
+        description: ""
+      wg-malfix:
+        title: ""
+        description: ""
+      wg-opcodes:
+        title: ""
+        description: ""
+      wg-protocol-spec:
+        title: ""
+        description: ""
+      wg-qa:
+        title: ""
+        description: ""
+      wg-sidechains:
+        title: ""
+        description: ""
+      wg-tokens:
+        title: ""
+        description: ""
+      wg-utxocommit-sync:
+        title: ""
+        description: ""
+      wg-ux:
+        title: ""
+        description: ""
+      wg-watercooler:
+        title: ""
+        description: ""
+  learn:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      tutorials: ""
+    tutorials:
+      title: ""
+      description: ""
+  specs:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      workgroups: ""
+      specifications: ""
+      ecosystem: ""
+    specifications:
+      title: ""
+      description: ""
+    ecosystem:
+      title: ""
+      description: ""
+  tech:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      foundation: ""
+      emerging: ""
+    foundation:
+      title: ""
+      description: ""
+    emerging:
+      title: ""
+      description: ""
+  tools:
+    title: ""
+    description: ""
+    sections:
+      home: ""
+      javascript: ""
+    javascript:
+      title: ""
   misc:
     logo: "logo"
     dropdown_md_width: "3"
@@ -87,7 +206,13 @@ id:
     services: "Servis"
     projects: "Projek"
     exchanges: "Tempat Penukaran Uang"
-    graphics: "Logos / Graphics"
+    graphics: ""
+    developers: ""
+    learn: ""
+    specs: ""
+    tech: ""
+    tools: ""
+    workgroups: ""
     faq: "FAQ"
   layout:
     bitcoin_cash: "Bitcoin Cash"
@@ -108,77 +233,74 @@ id:
       description: "Didukung dengan teknologi Blockchain paling kuat di dunia."
   headings:
     about: "Mata Uang terbaik di dunia"
-    nodes: "Node"
-    wallets: "Dompet"
-    services: "Servis"
-    projects: "Projek"
+    developers: ""
     exchanges: "Tempat Penukaran Uang"
     faq: "Frequently Asked Questions (FAQ)"
-    listingrequest: "Submit a listing request"
+    news: ""
+    nodes: "Node"
+    projects: "Projek"
+    services: "Servis"
+    wallets: "Dompet"
+    listingrequest: ""
+    error404: ""
+    benefits: ""
+    why: ""
+    history: ""
+    development: ""
+  error404:
+    subheading: ""
+    button: ""
   content:
     about:
       - |
         Bitcoin Cash adalah mata uang mendunia terjamin yang berasal dari visi awal Bitcoin untuk menjadi "Mata Uang Elektronik P2P". Bitcoin Cash memberdayakan pedagang dan pengguna untuk bertransaksi dengan biaya rendah dan konfirmasi cepat. Dengan inovasi baru dan pertumbuhan teknologi, Bitcoin Cash memungkinkan adopsi global dan pengembangan moneter yang terdesentralisasi.
       - |
-        Dimulai sejak blok 478558, semua pemegang Bitcoin juga sekarang memiliki Bitcoin Cash. Anda dipersilahkan untuk bergabung dengan komunitas Bitcoin Cash untuk menciptakan uang yang mudah diakses di seluruh dunia.
     faq:
       - question: "Apa itu Bitcoin Cash?"
         answer:
           - |
-            Bitcoin Cash adalah mata uang P2P electronik untuk internet. Mata uang ini sepenuhnya terdesentralisasi, tanpa bank sentral dan tidak memerlukan pihak ketiga yang terpercaya untuk beroperasi.
       - question: "Apakah Bitcoin Cash berbeda dengan 'Bitcoin'?"
         answer:
           - |
-            Ya. Bitcoin Cash adalah kelanjutan dari proyek Bitcoin yang bertujuan untuk membangun mata uang digital P2P. Bitcoin Cash memisahkan diri dari Bitcoin blockchain ledger untuk mengimplementasikan aturan konsensus yang memungkinkan teknologi baru ini untuk tumbuh dan berskala.
-      - question: "Jika saya memiliki Bitcoin, apakah secara otomatis saya memiliki Bitcoin Cash juga?"
-        answer:
-          - |
-            Semua pemilik Bitcoin pada saat Bitcoin Cash diciptakan menjadi pemilik Bitcoin Cash secara otomatis. Pemilik Bitcoin pada blok 478558 (1 Agustus 2017 sekitar 13:16 UTC) memiliki jumlah Bitcoin Cash yang sama dengan Bitcoin pada saat Bitcoin Cash diciptakan. Jika Bitcoin Anda disimpan oleh pihak ketiga seperti tempat pertukaran uang, Anda harus bertanya kepada mereka tentang Bitcoin Cash Anda.
-          - |
-            Semua transaksi atau akuisisi yang terjadi setelah perpisahan antara Bitcoin dan Bitcoin Cash pada tanggal 1 Agustus sepenuhnya terpisah.
-      - question: "Bagaimana replay transaksi ditangani antara blockchain baru dan lama?"
-        answer:
-          - |
-            Bitcoin Cash transactions use a new signature hashing algorithm indicated by the flag SIGHASH_FORKID. These signatures are not valid on the Bitcoin Legacy network. Hal ini mencegah transaksi Bitcoin Cash direplay di jaringan Bitcoin orisinal dan sebaliknya.
-      - question: "Mengapa Bitcoin Cash perlu diciptakan dan mengapa perpisahan dari Bitcoin diperlukan?"
-        answer:
-          - |
-            Bitcoin orisinal memiliki batas 1MB data per blok, atau sekitar 3 transaksi per detik. Secara teknis, batasan ini sangat mudah untuk diperbaiki, tapi komunitas Bitcoin orisinal tidak bisa mencapai konsensus, bahkan setelah bertahun-tahun berdebat.
-      - question: "Apakah batas ukuran blok 1 MB menyebabkan masalah bagi Bitcoin?"
-        answer:
-          - |
-            Ya. Pada tahun 2017, kapasitas Bitcoin menjadi sangat terbatas. Biaya transaksi meroket, dan Bitcoin tidak lagi dapat diandalkan; beberapa pengguna tidak dapat mengkonfirmasi transaksi mereka, bahkan setelah menunggu berhari-hari.
-          - |
-            Walaupun harga pasar Bitcoin telah meningkat, pertumbuhan dan kegunaannya sebagai mata uang mengalami stagnasi. Banyak pengguna, bisnis, dan bahkan investor Bitcoin memutuskan untuk mencari alternatif lain, menyebabkan dominasi pasar Bitcoin turun drastis dari 95% ke 40%.
-      - question: "Apakah Bitcoin Cash memperbaiki masalah ini?"
-        answer:
-          - |
-            Ya. Bitcoin Cash menaikkan batas ukuran blok menjadi 8MB sebagai bagian dari pendekatan massive on-chain scaling yang bertujuan untuk memberikan banyak kapasitas untuk transaksi setiap pengguna.
-          - |
-            Biaya rendah dan konfirmasi cepat telah kembali dengan Bitcoin Cash. Pengguna, pedagang, bisnis, dan investor bisa lagi menggunakan mata uang P2P yang efektif.
-      - question: "Jika mudah, mengapa Bitcoin tidak menaikkan ukuran blok?"
-        answer:
-          - |
-            Beberapa developer tidak mengerti dan setuju dengan visi asli mata uang eletronik P2P yang diciptakan oleh Satoshi Nakamoto. <a href="https://medium.com/@jgarzik/bitcoin-is-being-hot-wired-for-settlement-a5beb1df223a" target="_blank"> Sebaliknya, mereka lebih menyukai Bitcoin untuk menjadi settlement layer. </a>
-          - |
-            Banyak penambang dan pengguna Bitcoin yang percaya pada developer ini, sementara yang lainnya menyadara bahwa mereka mempunyai visi yang berbeda dari yang diberikan oleh grup ini.
-          - |
-            Dikarenakan perbedaan dua visi untuk Bitcoin ini, komunitas Bitcoin orisinal berpecah karena kedua visi tidak kompatibel dengan satu sama lain.
-      - question: "Bukankah SegWit meningkatkan kapasitas blok? Akankah Bitcoin Cash memiliki SegWit?"
-        answer:
-          - |
-            Segregated Witness atau "SegWit" adalah komprimi yang tidak dapat diterima untuk meningkatkan ukuran blok karena beberapa alasan.
-          - |
-            Pertama, bahkan dengan kapabilitas baru "SegWit", kapasitas blok hanya bertambah ke 1.7MB dengan 100% pemakaian. Peningkatan ini sangat kecil dan tidak akan memungkinkan pertumbuhan eksponensial atau penggunaan mendunia. Kedua, soft fork, atau protokol yang dilakukan untuk mengimplementasikan kompromi ini, menghasilkan discardable signatures, yang <a href="https://bitcrust.org/blog-incentive-shift-segwit" target="_blank"> melemahkan fungsi sekuritas Bitcoin. </a> Ketiga, "SegWit" membuat penambahan kapasitas di masa depan lebih sulit dikarenakan bandwidth inefficiency dan quadratic hashing attacks.
-          - |
-            Untuk alasan yang didaftarkan disini (dan lainnya), Bitcoin Cash perlu diciptakan sebagai pre-SegWit fork. Segwit tidak akan diadopsi.
-      - question: "Tim developer mana yang akan memimpin pengembangan Bitcoin Cash?"
-        answer:
-          - |
-            Berbeda dengan situasi sebelumnya di komunitas Bitcoin orisinal, Bitcoin Cash punya lebih dari satu tim developer inti. Bitcoin Cash mempunyai beberapa tim developer independen.
-          - |
-            Desentralisasi pengembangan dan software implementations sangat penting dan dibutuhkan untuk kedepannya.
-      - question: "Apa ticker symbol untuk Bitcoin Cash?"
-        answer:
-          - |
-            Bitcoin Cash diwakili oleh sejumlah simbol ticker yang berbeda tergantung pada layanan atau dompet. BCH / BCC adalah ticker yang paling populer, dengan XBC digunakan untuk memenuhi Standar Internasional untuk kode mata uang (ISO 4217).
+    why:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    benefits:
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+        - benefit: ""
+          descrip:
+            - |
+    history:
+        - |
+        - |
+        - |
+        - |
+    development:
+        - |
+        - |
