@@ -28,15 +28,15 @@ p.release {
   margin-bottom: 0;
 }
 .reminder a, .reminder a:hover, .reminder a:focus {
-  color:#fff;
+  color:#4d4d4d;
   text-decoration: none;
 }
 .reminder {
-  color: #fff;
+  color: #4d4d4d;
   margin-top: 15px;
 }
 .reminder ion-icon {
-  color:#fff;
+  color:#4d4d4d;
 }
 
 .reminder-bar .panel {
